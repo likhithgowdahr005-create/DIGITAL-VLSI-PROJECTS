@@ -81,6 +81,7 @@ These projects helped in developing understanding of:
 ## Internship Details
 
 **Program:** CodTech Internship
+
 **Domain:** Digital VLSI Design
 
 ---
